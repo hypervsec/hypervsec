@@ -126,17 +126,17 @@ A collection of **YARA rules** for malware detection and analysis work.
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=hypervsec&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=hypervsec&theme=tokyonight&no-frame=false&margin-w=4&margin-h=4&column=7" alt="Trophies" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/hypervsec/hypervsec/output/snake.svg" alt="Snake animation" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hypervsec&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=58A6FF&line=58A6FF&point=ffffff" alt="Activity Graph" />
 
 </div>
 
