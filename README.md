@@ -126,7 +126,7 @@ A collection of **YARA rules** for malware detection and analysis work.
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=hypervsec&theme=tokyonight&no-frame=false&margin-w=4&margin-h=4&column=7" alt="Trophies" />
+
 
 </div>
 
