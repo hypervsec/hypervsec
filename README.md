@@ -63,7 +63,7 @@ Hi! I'm **Enes**, a Computer Engineering student who loves building software, le
     <td width="50%" valign="top">
 
 #### 🛡️ ThreatLens
-Siber güvenlik eğitimlerini mobil ortamda **interaktif ve oyunlaştırılmış** şekilde sunan öğrenme platformu.
+A learning platform that delivers cyber security training on mobile in an **interactive and gamified** way.
 
 `Dart` · `Flutter`
 
@@ -73,7 +73,7 @@ Siber güvenlik eğitimlerini mobil ortamda **interaktif ve oyunlaştırılmış
     <td width="50%" valign="top">
 
 #### 🎮 Mistik-G
-**Unity** ile geliştirdiğim oyun projesi. Oyun mekanikleri ve C# üzerine pratik.
+A game project built with **Unity**. Hands-on practice with game mechanics and C#.
 
 `C#` · `Unity`
 
@@ -85,7 +85,7 @@ Siber güvenlik eğitimlerini mobil ortamda **interaktif ve oyunlaştırılmış
     <td width="50%" valign="top">
 
 #### 🧩 2048 Game
-Klasik 2048 oyununun web tabanlı versiyonu. HTML / CSS / JS ile geliştirildi.
+A web-based version of the classic 2048 game. Built with HTML / CSS / JS.
 
 `CSS` · `JavaScript`
 
@@ -95,7 +95,7 @@ Klasik 2048 oyununun web tabanlı versiyonu. HTML / CSS / JS ile geliştirildi.
     <td width="50%" valign="top">
 
 #### 🔍 yara-rules
-Malware tespiti için **YARA kuralları** koleksiyonu ve analiz çalışmaları.
+A collection of **YARA rules** for malware detection and analysis work.
 
 `YARA`
 
@@ -107,7 +107,7 @@ Malware tespiti için **YARA kuralları** koleksiyonu ve analiz çalışmaları.
 
 <div align="center">
   <a href="https://github.com/hypervsec?tab=repositories">
-    <img src="https://img.shields.io/badge/Tüm%20Projeleri%20Gör-181717?style=for-the-badge&logo=github&logoColor=white" alt="All repos" />
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="All repos" />
   </a>
 </div>
 
